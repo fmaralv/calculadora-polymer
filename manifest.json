@@ -1,0 +1,6 @@
+{
+  "name": "calculadora-polymer",
+  "short_name": "calculadora-polymer",
+  "start_url": "/",
+  "display": "standalone"
+}
